@@ -6,8 +6,8 @@
 |------|-----|
 | *Gabriel de Leão da Rocha* | *RM571330* |
 | *Guilherme Alves Nune* | *RM572754* |
-| *(preencher)* | *(preencher)* |
-| *(preencher)* | *(preencher)* |
+| *Pedro Henrique de Souza Elias* | *RM70487* |
+| *Maurício Furlan Rodrigues Chaves* | *RM572512* |
 
 ---
 
