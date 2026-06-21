@@ -6,7 +6,7 @@
 |------|-----|
 | *Gabriel de Leão da Rocha* | *RM571330* |
 | *Guilherme Alves Nune* | *RM572754* |
-| *Pedro Henrique de Souza Elias* | *RM70487* |
+| *Pedro Henrique de Souza Elias* | *RM570487* |
 | *Maurício Furlan Rodrigues Chaves* | *RM572512* |
 
 ---
